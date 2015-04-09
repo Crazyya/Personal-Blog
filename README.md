@@ -21,7 +21,7 @@ This solution is develop on Visual Studio 2012
 #Install
 Import blog.sql to Mysql
 
-#Edit MyBlog/Blog.WebUI/obj/Debug/Package/PackageTmp/bin/hibernate.cfg.xml ConnectionString node
+Edit MyBlog/Blog.WebUI/obj/Debug/Package/PackageTmp/bin/hibernate.cfg.xml ConnectionString node
 
 Upload MyBlog/Blog.WebUI/obj/Debug/Package/PackageTmp flies to you web site root
 
